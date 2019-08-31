@@ -1,0 +1,9 @@
+{
+    "path" : "~/Documents/R/stocks",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
